@@ -44,7 +44,7 @@ install.packages(c("tidyverse", "readxl", "janitor"))
 slides/      Session slides
 scripts/     R scripts used in each session
 data/        Practice datasets (only datasets cleared for sharing)
-exercises/   Practice tasks and solutions
+outputs/   Data and plots generated from sessions
 ```
 
 ## Getting help
